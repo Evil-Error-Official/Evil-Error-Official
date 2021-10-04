@@ -1,14 +1,11 @@
 
-    tophat Cyber Security
-    detective Pentester
-    globe_with_meridians Netwoking(CCNA & CCNP)
-    closed_book youtube content creator
-    man_technologist Pentesting tools development
-    biohazard CTF player
-    game_die gamer
+
+✪• 𝗘𝘅𝗽𝗲𝗿𝘁 𝗮𝘁 𝗢𝗳𝗳𝗲𝗻𝘀𝗶𝘃𝗲 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 •✪
+𝗢𝗦𝗖𝗣 | OSEP | OSWE | 𝗖𝗘𝗛 𝘃10 Cyber Security
+✪• Pentester •✪
+✪• Netwoking Expert(CCNA & CCNP) •✪
+✪• Pentesting tools development •✪
+✪• CTF player •✪
+✪• gamer •✪
 
 
-<!---
-Evil-Error-Official/Evil-Error-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
